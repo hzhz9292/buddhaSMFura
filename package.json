@@ -1,0 +1,13 @@
+{
+  "name": "buddha-chat-server-v5-sync",
+  "version": "5.0.0",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.18.3",
+    "firebase-admin": "^12.7.0"
+  }
+}
